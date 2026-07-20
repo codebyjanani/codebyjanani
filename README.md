@@ -48,30 +48,22 @@
 ## 📂 Featured Projects
 
 ### 🎉 College Event Management System
-
-A web-based platform to manage college events, registrations, schedules, and participant information efficiently.
+A web-based platform for managing college events, registrations, and schedules.
 
 ### 🚔 Cyber Crime Complaint & Evidence Management System
+A secure platform to register cybercrime complaints, upload digital evidence, and track complaint status.
 
-A secure web application that enables users to register cybercrime complaints, upload digital evidence, and track complaint status.
+### 🛒 E-Commerce Website
+An online shopping application with product browsing, shopping cart, search, and responsive design.
 
-### ⛽ Smart Fuel Theft Detection and Monitoring System
+### 🌐 Full Stack Web Development Projects
+A collection of full-stack applications demonstrating frontend and backend development skills.
 
-An IoT-based solution that monitors fuel levels in real time, detects fuel theft, and provides instant alerts with analytics.
+### ☕ Java Programming Projects
+Java programs covering object-oriented programming, problem-solving, and core Java concepts.
 
-### 🌾 AI-Based Smart Crop Protection & Early Harvest Recommendation System
-
-An AI and IoT-powered system that monitors crop health, weather conditions, and soil parameters to recommend the optimal harvest time and reduce crop losses.
-
-### 🛒 ShopEase – E-Commerce Website
-
-A responsive e-commerce platform featuring product browsing, shopping cart functionality, search, filtering, and a modern user interface.
-
-### ☕ Java & SQL Practice Projects
-
-A collection of Java programming, SQL queries, and database management projects demonstrating problem-solving and backend development skills.
-
----
+### 📡 IoT Projects
+IoT-based applications integrating sensors and real-time monitoring systems.---
 
 ## 📫 Connect with Me
 
