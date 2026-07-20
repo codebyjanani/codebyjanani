@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi there 👋, I'm Janani Manoharan
 
-<!--
-**codebyjanani/codebyjanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Information Technology Student**
 
-Here are some ideas to get you started:
+💻 **Aspiring Full Stack Developer** passionate about building real-world web applications and continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 B.Tech IT Student
+* 💻 Learning Full Stack Development
+* ☕ Skilled in Java and SQL
+* 🌐 Exploring HTML, CSS, and JavaScript
+* 🇯🇵 Learning Japanese (JLPT N5)
+* 🌱 Always eager to learn new technologies and solve real-world problems
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+* Java
+* SQL
+* HTML
+* CSS
+* JavaScript
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+* MySQL
+
+---
+
+## 📌 Current Focus
+
+* Full Stack Development
+* Java Development
+* Database Management
+* Building real-world projects
+
+---
+
+## 📂 Featured Projects
+
+* 🚔 Cyber Crime Complaint & Evidence Management System
+* 🎉 College Event Management System
+* ⛽ Smart Fuel Theft Detection and Monitoring System
+* 🌾 Smart Crop Protection System
+
+---
+
+## 📫 Connect with Me
+
+* GitHub: https://github.com/codebyjanani
+* LinkedIn: *(Add your LinkedIn profile URL here)*
+
+---
+
+⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
