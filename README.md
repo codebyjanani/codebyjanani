@@ -47,17 +47,36 @@
 
 ## 📂 Featured Projects
 
-* 🚔 Cyber Crime Complaint & Evidence Management System
-* 🎉 College Event Management System
-* ⛽ Smart Fuel Theft Detection and Monitoring System
-* 🌾 Smart Crop Protection System
+### 🎉 College Event Management System
+
+A web-based platform to manage college events, registrations, schedules, and participant information efficiently.
+
+### 🚔 Cyber Crime Complaint & Evidence Management System
+
+A secure web application that enables users to register cybercrime complaints, upload digital evidence, and track complaint status.
+
+### ⛽ Smart Fuel Theft Detection and Monitoring System
+
+An IoT-based solution that monitors fuel levels in real time, detects fuel theft, and provides instant alerts with analytics.
+
+### 🌾 AI-Based Smart Crop Protection & Early Harvest Recommendation System
+
+An AI and IoT-powered system that monitors crop health, weather conditions, and soil parameters to recommend the optimal harvest time and reduce crop losses.
+
+### 🛒 ShopEase – E-Commerce Website
+
+A responsive e-commerce platform featuring product browsing, shopping cart functionality, search, filtering, and a modern user interface.
+
+### ☕ Java & SQL Practice Projects
+
+A collection of Java programming, SQL queries, and database management projects demonstrating problem-solving and backend development skills.
 
 ---
 
 ## 📫 Connect with Me
 
 * GitHub: https://github.com/codebyjanani
-* LinkedIn: *(Add your LinkedIn profile URL here)*
+* LinkedIn: https://www.linkedin.com/in/janani-manoharan/
 
 ---
 
